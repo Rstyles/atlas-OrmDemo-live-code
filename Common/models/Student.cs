@@ -8,5 +8,5 @@ public class Student
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public string Alias { get; set; }
-    public DateOnly DoB { get; set; }
+    public DateTime DoB { get; set; }
 }
