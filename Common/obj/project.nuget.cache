@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j4EeP7F7qfM=",
+  "dgSpecHash": "MmfQNef7DoQ=",
   "success": true,
-  "projectFilePath": "/home/vscode/OrmDemo/Common/Common.csproj",
+  "projectFilePath": "/workspaces/atlas-OrmDemo-live-code/Common/Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vscode/OrmDemo/AdoDemo/AdoDemo.csproj": {}
+    "/workspaces/atlas-OrmDemo-live-code/AdoDemo/AdoDemo.csproj": {}
   },
   "projects": {
-    "/home/vscode/OrmDemo/AdoDemo/AdoDemo.csproj": {
+    "/workspaces/atlas-OrmDemo-live-code/AdoDemo/AdoDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vscode/OrmDemo/AdoDemo/AdoDemo.csproj",
+        "projectUniqueName": "/workspaces/atlas-OrmDemo-live-code/AdoDemo/AdoDemo.csproj",
         "projectName": "AdoDemo",
-        "projectPath": "/home/vscode/OrmDemo/AdoDemo/AdoDemo.csproj",
+        "projectPath": "/workspaces/atlas-OrmDemo-live-code/AdoDemo/AdoDemo.csproj",
         "packagesPath": "/home/vscode/.nuget/packages/",
-        "outputPath": "/home/vscode/OrmDemo/AdoDemo/obj/",
+        "outputPath": "/workspaces/atlas-OrmDemo-live-code/AdoDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vscode/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/vscode/OrmDemo/Common/Common.csproj": {
-                "projectPath": "/home/vscode/OrmDemo/Common/Common.csproj"
+              "/workspaces/atlas-OrmDemo-live-code/Common/Common.csproj": {
+                "projectPath": "/workspaces/atlas-OrmDemo-live-code/Common/Common.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "/home/vscode/OrmDemo/Common/Common.csproj": {
+    "/workspaces/atlas-OrmDemo-live-code/Common/Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vscode/OrmDemo/Common/Common.csproj",
+        "projectUniqueName": "/workspaces/atlas-OrmDemo-live-code/Common/Common.csproj",
         "projectName": "Common",
-        "projectPath": "/home/vscode/OrmDemo/Common/Common.csproj",
+        "projectPath": "/workspaces/atlas-OrmDemo-live-code/Common/Common.csproj",
         "packagesPath": "/home/vscode/.nuget/packages/",
-        "outputPath": "/home/vscode/OrmDemo/Common/obj/",
+        "outputPath": "/workspaces/atlas-OrmDemo-live-code/Common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vscode/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vscode/OrmDemo/Common/Common.csproj",
+      "projectUniqueName": "/workspaces/atlas-OrmDemo-live-code/Common/Common.csproj",
       "projectName": "Common",
-      "projectPath": "/home/vscode/OrmDemo/Common/Common.csproj",
+      "projectPath": "/workspaces/atlas-OrmDemo-live-code/Common/Common.csproj",
       "packagesPath": "/home/vscode/.nuget/packages/",
-      "outputPath": "/home/vscode/OrmDemo/Common/obj/",
+      "outputPath": "/workspaces/atlas-OrmDemo-live-code/Common/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vscode/.nuget/NuGet/NuGet.Config"
